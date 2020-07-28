@@ -4,8 +4,6 @@ Desenvolvimento de aplicações completas, incluindo frontend Web com React e ba
 
 ## Projeto: Astro Match
 
-[Site do projeto](http://snotty-winter.surge.sh/)
-
 <p align="center">
   <img  width='200' src='https://user-images.githubusercontent.com/57155587/79593201-7e045000-80b1-11ea-8daa-77b4dfaf4e48.png'>
   <img  width='200' src='https://user-images.githubusercontent.com/57155587/79593143-64fb9f00-80b1-11ea-8d17-5137f2fe9bb1.png'>
@@ -13,6 +11,8 @@ Desenvolvimento de aplicações completas, incluindo frontend Web com React e ba
 </p>
 
 
+[Site do projeto](http://snotty-winter.surge.sh/)
+<br>
 **Desenvolvido por:** [Milene Taborda](https://www.linkedin.com/in/milene-taborda/)
 <br><br>
 
