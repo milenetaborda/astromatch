@@ -36,3 +36,29 @@ A parte do layout já estava pronta, sendo necessário, para deixar a aplicaçã
 #### Desafio
 
 - Ao clicar no usuário que deu "match", renderizar suas informações detalhadas
+
+<br><br>
+
+## Como rodar a aplicação
+
+No terminal, clone o projeto:
+```
+git clone 
+```
+
+Entre na pasta do projeto:
+```
+cd astromatch
+```
+
+Instale as dependências:
+```
+npm install
+```
+
+Execute a aplicação:
+```
+npm start 
+```
+
+<br>
