@@ -42,7 +42,7 @@ export const chooseProfile = (id, choice) => async (dispatch, setState) => {
 		id: id,
 		choice: choice
 	}
-	const response = await axios.post('https://us-central1-missao-newton.cloudfunctions.net/astroMatch/Milene/choose-person', body)
+	await axios.post('https://us-central1-missao-newton.cloudfunctions.net/astroMatch/Milene/choose-person', body)
 
 	dispatch(getProfile())
 }

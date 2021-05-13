@@ -38,7 +38,7 @@ export const UserCardWrapper = styled.div`
 
 export const BlurredBackground = styled.div`
 	${({photo}) => {
-		if(photo){
+		if(photo)
 		return `
 				background-image: url(${photo});
 				filter: blur(30px);
@@ -46,7 +46,6 @@ export const BlurredBackground = styled.div`
 				width: 100%;
 				position: absolute;
 			`
-		}
 	}}
 `
 
