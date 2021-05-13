@@ -16,7 +16,7 @@ class MatchScreen extends Component {
 	}
 
 	render() {
-		const {goToSwipeScreen, matches, goToPerfileScreen, setSelectedProfile} = this.props
+		const {goToSwipeScreen, matches, goToPerfileScreen} = this.props
 
 		const onClickProfileScreen = (profile) => {
 			setSelectedProfile(profile)
